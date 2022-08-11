@@ -1189,6 +1189,7 @@ case $cpu-$vendor in
 			| amdgcn \
 			| arc | arceb | arc32 | arc64 \
 			| arm | arm[lb]e | arme[lb] | armv* \
+			| athena \
 			| avr | avr32 \
 			| asmjs \
 			| ba \
